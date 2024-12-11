@@ -1,5 +1,3 @@
-<!-- Cookie Consent mode v2-->
-<script>
     document.addEventListener('DOMContentLoaded', function() {
         // Get modal, buttons, and checkboxes by their custom attributes (CA)
         const consentModal = document.querySelector('[cc="preferences"]');
@@ -143,4 +141,3 @@
         // Initialize the modal and checkbox states on page load
         initializeModal();
     });
-</script>

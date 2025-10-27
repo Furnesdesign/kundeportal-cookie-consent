@@ -1,3 +1,9 @@
+/**
+ * Cookie Consent – v2.0.1
+ * Date: 2025-10-27
+ * Notes: Adds Microsoft Clarity consentv2 retry and minor robustness tweaks.
+ */
+
 document.addEventListener('DOMContentLoaded', function () {
   // ===== Query UI elements (custom attributes) =====
   const consentModal = document.querySelector('[cc="preferences"]');
